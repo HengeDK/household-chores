@@ -2,7 +2,7 @@ device = {
     "identifiers": ["Kikkei Labs Household"],
     "name": "Household Activities Calendar",
     "model": "Kikkei-household-0",
-    "manufacturer": "Kikkei Labs",
+    "manufacturer": "HengeDK",
 }
 
 garbage_config = {
@@ -32,7 +32,7 @@ kids_device = {
     "identifiers": ["Kid"],
     "name": "Household Chores's #'s Activities",
     "model": "Kikkei-household-1",
-    "manufacturer": "Kikkei Labs",
+    "manufacturer": "HengeDK",
 }
 
 hass_kid_entity = {
